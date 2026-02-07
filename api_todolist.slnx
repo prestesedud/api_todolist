@@ -1,0 +1,23 @@
+<Solution>
+  <Folder Name="/1-Domain/">
+    <Project Path="src/api_todolist.Domain/api_todolist.Domain.csproj" />
+  </Folder>
+  <Folder Name="/2-Infra/">
+    <Project Path="src/api_todolist.Infra/api_todolist.Infra.csproj" />
+  </Folder>
+  <Folder Name="/3-Application/">
+    <Project Path="src/api_todolist.Application/api_todolist.Application.csproj" />
+  </Folder>
+  <Folder Name="/4-Api/">
+    <Project Path="src/api_todolist.Api/api_todolist.Api.csproj" />
+  </Folder>
+  <Folder Name="/5-Core/">
+    <Project Path="src/api_todolist.Core/api_todolist.Core.csproj" />
+  </Folder>
+  <Folder Name="/6-IOC/">
+    <Project Path="src/api_todolist.Ioc/api_todolist.IOC.csproj" />
+  </Folder>
+  <Folder Name="/7-Testes/">
+    <Project Path="src/api_todolist.Tests/api_todolist.Tests.csproj" />
+  </Folder>
+</Solution>
