@@ -15,7 +15,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MoneyScope.Ioc
+namespace api_todolist.Ioc
 {
     public static class Injection
     {

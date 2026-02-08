@@ -10,7 +10,7 @@ using api_todolist.Api.Middlewares;
 using api_todolist.Application.Config;
 using api_todolist.Infra.Context;
 using api_todolist.Infra.Interfaces;
-using MoneyScope.Ioc;
+using api_todolist.Ioc;
 
 
 var builder = WebApplication.CreateBuilder(args);
